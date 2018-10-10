@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-void taomenu() {
-    printf("Nhap lua chon cua ban");
-    printf("1.Gia tri lon nhat trong mang");
-    printf("2.Gia tri nho nhat trong mang");
-}
 
 int main() {
     int soluongphantu;
